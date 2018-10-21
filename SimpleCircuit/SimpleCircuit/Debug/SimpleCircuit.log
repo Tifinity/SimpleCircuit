@@ -1,0 +1,14 @@
+﻿  main.cpp
+e:\c\c++\simplecircuit\simplecircuit\functions.h(12): warning C4018: “<”: 有符号/无符号不匹配
+e:\c\c++\simplecircuit\simplecircuit\functions.h(18): warning C4018: “<”: 有符号/无符号不匹配
+e:\c\c++\simplecircuit\simplecircuit\functions.h(154): warning C4018: “<”: 有符号/无符号不匹配
+e:\c\c++\simplecircuit\simplecircuit\functions.h(187): warning C4018: “<”: 有符号/无符号不匹配
+e:\c\c++\simplecircuit\simplecircuit\functions.h(193): warning C4018: “<”: 有符号/无符号不匹配
+e:\c\c++\simplecircuit\simplecircuit\functions.h(194): warning C4018: “<”: 有符号/无符号不匹配
+e:\c\c++\simplecircuit\simplecircuit\functions.h(212): warning C4018: “<”: 有符号/无符号不匹配
+e:\c\c++\simplecircuit\simplecircuit\functions.h(214): warning C4018: “<”: 有符号/无符号不匹配
+e:\c\c++\simplecircuit\simplecircuit\functions.h(221): warning C4018: “<”: 有符号/无符号不匹配
+e:\c\c++\simplecircuit\simplecircuit\functions.h(234): warning C4018: “<”: 有符号/无符号不匹配
+e:\c\c++\simplecircuit\simplecircuit\functions.h(236): warning C4018: “<”: 有符号/无符号不匹配
+  SimpleCircuit.vcxproj -> E:\C\C++\SimpleCircuit\Debug\SimpleCircuit.exe
+  SimpleCircuit.vcxproj -> E:\C\C++\SimpleCircuit\Debug\SimpleCircuit.pdb (Partial PDB)
